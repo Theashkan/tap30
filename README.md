@@ -4,7 +4,7 @@
 ## Description 
 
 heres my first UI designing with 
-!Full Responsive design
+#Full Responsive design
 * HTML
 * CSS
 * JavaScript
