@@ -1,8 +1,10 @@
 ## Tap30 
-##Full Responsive design
+
+
 ## Description 
 
 heres my first UI designing with 
+!Full Responsive design
 * HTML
 * CSS
 * JavaScript
